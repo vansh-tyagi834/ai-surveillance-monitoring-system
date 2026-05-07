@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Logs
+logs/
+audio_logs/
+*.log
+
+# Captures & reports
+attendance_captures/
+exam_reports/
+
+# Student/private data
+student_faces/
+student_data/
+registration_photos/
+
+# Models
+models/
+*.pkl
+*.h5
+*.pt
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
